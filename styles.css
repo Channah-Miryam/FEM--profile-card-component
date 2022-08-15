@@ -29,15 +29,16 @@ body {
 
   font-size: 18px;
   font-family: 'Kumbh Sans', sans-serif;
-  width: 374px;
-  height: auto;
-  max-width: 374px;
-  margin: 0 auto;
 }
 
 .page-container {
   position: relative;
   min-height: 100vh;
+
+  width: 374px;
+  height: auto;
+  max-width: 374px;
+  margin: 0 auto;
 }
 
 .content-wrap {
@@ -55,6 +56,7 @@ body {
   height: 2.5rem; /* Footer height */
   font-size: 11px;
   text-align: center;
+  font-weight: bold;
 }
 
 .attribution a {
